@@ -1,7 +1,7 @@
 from Reduino import target
 from Reduino.Sensors import Ultrasonic
 from Reduino.Actuators import Led, Buzzer
-from Reduino.Utils import map
+
 
 
 ultrasonicSensor=Ultrasonic(trig=6,echo=7)
