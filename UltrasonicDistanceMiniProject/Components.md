@@ -16,9 +16,9 @@ A minimalist distance detection system. It uses an ultrasonic sensor to detect p
 
 | Component | Arduino Pin |
 |-----------|-------------|
-| **Trig** | D6          |
-| **Echo** | D7         |
-| **Buzzer**| D9         |
+| **Trig**  | D6          |
+| **Echo**  | D7          |
+| **Buzzer**| D9          |
 | **LED 1** | D2          |
 | **LED 2** | D3          |
 | **LED 3** | D4          |
